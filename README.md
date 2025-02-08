@@ -22,8 +22,8 @@ The following packages must be installed on your system:
 
 1. Clone this repository:
 ```bash
-git clone [repository-url]
-cd [repository-name]
+git clone https://github.com/AnmiTaliDev/ZSH-custom
+cd ZSH-custom
 ```
 
 2. Make the script executable:
